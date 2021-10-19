@@ -8,7 +8,9 @@ Site: https://chocolatey.org/
 
 open Command Prompt(cmd) as Administrator, and execute the command below.
 
->@"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"
+> @"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"
+
+
 
 
 > choco –version
@@ -30,6 +32,13 @@ If its ok ,you can see Chocolatey version on the screen.
 ## (4) React Native CLI
 > npm install -g react-native-cli
 > npx react-native --version
+
+<code>      
+    nano
+      nano
+        nano
+          nano
+</code>.
 
 
 
