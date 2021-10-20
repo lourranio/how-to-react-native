@@ -33,13 +33,10 @@ If its ok ,you can see Chocolatey version on the screen.
 > npm install -g react-native-cli
 > npx react-native --version
 
-<code>      
-    nano
-      nano
-        nano
-          nano
-</code>.
+## (5) Android Studio
+. Android Studio: https://developer.android.com/studio
 
+![alt](https://https://dev-yakuza.posstree.com/assets/images/category/react-native/2018/install-on-windows/android_studio_start.jpg)
 
 
 
